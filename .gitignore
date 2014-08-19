@@ -1,3 +1,10 @@
+#project related
+trash/
+*.geany
+*.bkp
+*.tmx
+tileset/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
