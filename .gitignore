@@ -3,7 +3,9 @@ trash/
 *.geany
 *.bkp
 *.tmx
+*.xcf
 tileset/
+*~
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
